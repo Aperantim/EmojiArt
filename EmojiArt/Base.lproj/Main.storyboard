@@ -183,11 +183,6 @@
                                 <action selector="close:" destination="U4c-d2-sE9" id="lhQ-4l-WtS"/>
                             </connections>
                         </barButtonItem>
-                        <barButtonItem key="rightBarButtonItem" systemItem="save" id="UaG-TH-77x">
-                            <connections>
-                                <action selector="save:" destination="U4c-d2-sE9" id="vYc-mf-V6T"/>
-                            </connections>
-                        </barButtonItem>
                     </navigationItem>
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
